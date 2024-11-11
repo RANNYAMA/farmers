@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47708169376",
+    "project_id": "famers-marketplace",
+    "storage_bucket": "famers-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47708169376:android:cc90c7647a4ee341bfd5c5",
+        "android_client_info": {
+          "package_name": "com.company.farmerslesotho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbu-kT1JvbjN6E8o-ch7lBi8drfvnP2f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
